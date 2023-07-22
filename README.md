@@ -3,7 +3,7 @@ Developing Photonics Computer OS for home and buisness users. Photonics Computer
 
 Quantum Mechanics is the study of  nature at the atomic level especially Electrons, Photons and more.
 
-Everyday when you wake up and see, the sun rises in the east because our beautiful planet Earth rotates around Sun and the atoms are building blocks of planets and stars in the universe and those atoms seems to be in certain oscillations or vibrations in nature.
+Everyday when you wake up and see, the sun rises in the east because our beautiful planet Earth rotates around Sun every 365 days. Because of earth in continuous motion, the atoms which are considered to be building blocks of earth seems to be in certain oscillations or vibrations in nature also.
 
 Entanglement in Quantum Computer: In Photonics Quantum Computer, Polarization of two photons at the same time is called as Entanglement.
 
