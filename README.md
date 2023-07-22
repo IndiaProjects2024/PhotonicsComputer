@@ -3,7 +3,7 @@ Developing Photonics Computer OS for home and buisness users. Photonics Computer
 
 Photonics Quantum Computer will allow existing Classical Computer OS like Windows, Mac, Linux and other operating systems to install in the Quantum Computer.
 
-Quantum Mechanics is the study of  nature at the atomic level especially Electrons, Photons and more.
+Quantum Mechanics is the study of nature at the atomic level especially Electrons, Photons and more.
 
 Everyday when you wake up and see, the sun rises in the east because our beautiful planet Earth rotates around Sun every 365 days. Because of earth in continuous motion, the atoms which are considered to be building blocks of earth seems to be in certain oscillations or vibrations in nature also.
 
@@ -29,3 +29,13 @@ Photonics Topics: Photonic Integrated Circuit, Photons, Laser Emitters, Waveguid
 Power of Photonics Computers: A calculation will take more than 10,000 years to complete in classical supercomputer available currently whereas the photonic qubits based computer will complete in 100 microseconds.
 
 Photonics Circuit Stimulation Softwares: Ansys Lumerical, Cadence Virtuoso and others.
+
+Photonic Integrated Circuit: Silicon Photonics are chips made up of Silicon Fabrication technology and Photonic Components  to create Quantum Computer.
+
+Silicon Wafers of thickness 200 mm and above.
+
+Laser Light source of 1550 nm or suitable wavelength to produce photons. Photons will be passed through beam spliter to create single photons. Single photons will be polarized using interferometer like Mach-Zender Interferometer. Polarized photons will be used to create quantum neural networks or quantum logical gates to do computations. Outcome of computations will be detected in photodetectors like germanium.
+
+Wave guides are used to guide or channelize photons in a medium. Example: Lithium Niobate and more.
+
+Quantum processor will allow user to save the computation in electronic signal whenever the user require to do or will carry out the computations in continuous loop at light speed allowing or stepping all of us into next revolution of computing.
