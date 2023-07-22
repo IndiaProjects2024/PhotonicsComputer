@@ -30,7 +30,7 @@ Power of Photonics Computers: A calculation will take more than 10,000 years to 
 
 Photonics Circuit Stimulation Softwares: Ansys Lumerical, Cadence Virtuoso and others.
 
-Photonic Integrated Circuit: Silicon Photonics are chips made up of Silicon Fabrication technology and Photonic Components  to create Quantum Computer.
+Photonic Integrated Circuit: Silicon Photonics or Photonic chips are made up of Silicon Fabrication technology and Photonic Components  to create Quantum Computer.
 
 Silicon Wafers of thickness 200 mm and above.
 
