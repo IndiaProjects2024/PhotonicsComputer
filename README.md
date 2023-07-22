@@ -1,7 +1,7 @@
 # Photonics Computer
 Developing Photonics Computer OS for home and buisness users. Photonics Computers are based on photonic qubits.
 
-Quantum Mechanics is the science of study of  nature at the atomic level especially Electrons, Photons and more.
+Quantum Mechanics is the study of  nature at the atomic level especially Electrons, Photons and more.
 
 Everyday when you wake up and see, the sun rises in the east because our beautiful planet Earth rotates around Sun and the atoms are building blocks of planets and stars in the universe and those atoms seems to be in certain oscillations or vibrations in nature.
 
