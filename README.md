@@ -1,6 +1,8 @@
 # Photonics Computer
 Developing Photonics Computer OS for home and buisness users. Photonics Computers are based on photonic qubits.
 
+Photonics Quantum Computer will allow existing Classical Computer OS like Windows, Mac, Linux and other operating systems to install in the Quantum Computer.
+
 Quantum Mechanics is the study of  nature at the atomic level especially Electrons, Photons and more.
 
 Everyday when you wake up and see, the sun rises in the east because our beautiful planet Earth rotates around Sun every 365 days. Because of earth in continuous motion, the atoms which are considered to be building blocks of earth seems to be in certain oscillations or vibrations in nature also.
