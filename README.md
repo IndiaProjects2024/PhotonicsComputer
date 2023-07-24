@@ -1,7 +1,7 @@
 # Photonics Computer
 Developing Photonics Computer OS for home and buisness users. Photonics Computers are based on photonic qubits.
 
-Photonics Quantum Computer will allow existing Classical Computer OS like Windows, Mac, Linux and other operating systems to install in the Quantum Computer.
+Photonics Quantum Computer will allow existing Classical Computer OS like Windows, Mac, Linux and Other Operating Systems to install in the Quantum Computer.
 
 Quantum Mechanics is the study of nature at the atomic level especially Electrons, Photons and more.
 
