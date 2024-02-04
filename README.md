@@ -1,4 +1,4 @@
-# ** Photonics Computer **
+# Photonics Computer
 Developing Photonics Computer OS for home and buisness users. Photonics Computers are based on photonic qubits.
 
 Photonics Quantum Computer will allow existing Classical Computer OS like Windows, Mac, Linux and Other Operating Systems to install in the Quantum Computer.
@@ -42,5 +42,5 @@ Quantum processor will allow user to save the computation in electronic signal w
 
 
 Reference Links: 
-[Photonics Courses - IIT](https://www.youtube.com/@iit)
-[ETH Zurich Videos for Digital Design](https://www.youtube.com/@OnurMutluLectures)
+* [Photonics Courses - IIT](https://www.youtube.com/@iit)
+* [ETH Zurich Videos for Digital Design](https://www.youtube.com/@OnurMutluLectures)
