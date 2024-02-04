@@ -43,4 +43,4 @@ Quantum processor will allow user to save the computation in electronic signal w
 
 Reference Links: 
 * [Photonics Courses - IIT](https://www.youtube.com/@iit)
-* [ETH Zurich Videos for Digital Design](https://www.youtube.com/@OnurMutluLectures)
+* [Digital Design - ETH Zurich](https://www.youtube.com/@OnurMutluLectures)
