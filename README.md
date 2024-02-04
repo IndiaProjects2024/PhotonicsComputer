@@ -39,8 +39,3 @@ Laser Light source of 1550 nm or suitable wavelength to produce photons. Photons
 Wave guides are used to guide or channelize photons in a medium. Example: Lithium Niobate and more.
 
 Quantum processor will allow user to save the computation in electronic signal whenever the user require to do or will carry out the computations in continuous loop at light speed allowing or stepping all of us into next revolution of computing.
-
-
-Reference Links: 
-* [Photonics Courses - IIT](https://www.youtube.com/@iit)
-* [Digital Design - ETH Zurich](https://www.youtube.com/@OnurMutluLectures)
